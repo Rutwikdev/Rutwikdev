@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rutwikdev
-- 👀 I’m interested in Quant , ML , Data Science 
+- 👀 I’m interested in Full Stack Java Development 
 - 🌱 I’m currently learning Pandas
-- 💞️ I’m looking to collaborate on Quant , ML 
+- 💞️ I’m looking to collaborate on Full Stack Web Development 
 - 📫 How to reach me ; mail me at rutwikdev@gmail.com
 
 <!---
